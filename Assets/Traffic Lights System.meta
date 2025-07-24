@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: a5e1aecf799e7b548854671291e1c33a
+folderAsset: yes
+=======
+<<<<<<<< HEAD:Assets/Scenes/MainMenu.unity.meta
+guid: a93f3ebcdd555824faef60c5f9ba205c
+========
+guid: 7f2b862ec4d02654a88ef917ed240342
+folderAsset: yes
+>>>>>>>> 2f045b5028c27497c6a30b4d8d0b29c3abde78dd:Assets/Traffic Lights System.meta
+>>>>>>> 2f045b5028c27497c6a30b4d8d0b29c3abde78dd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
